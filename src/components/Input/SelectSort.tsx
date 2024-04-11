@@ -1,13 +1,8 @@
 import { SelectOptionsType } from "@/lib/types";
 import React from "react";
-import {
-    Select,
-    SelectContent,
-    SelectItem,
-    SelectTrigger,
-    SelectValue,
-} from "@/components/ui/select"
-import { DownArrow } from "../downArrow";
+
+import { DownArrow } from "../DownArrow";
+
 
 
 export const SelectSort = ({
